@@ -135,7 +135,7 @@ Follow these steps carefully to download and run **Night Shift**. This guide ass
 ### Controls
 - **W / A / S / D** for movement  
 - **E**: Interact with doors 
-- **F**: Interact with paper and key
+- **F**: Interact with paper(open/close) and key
 
 Notes:  
 
