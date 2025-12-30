@@ -15,10 +15,9 @@ What starts as routine slowly unfolds into something deeply unsettling.
 
 ## Concept
 
-- **Psychological horror over jumpscares**
+- **Psychological horror**
 - **Minimal UI**
 - **Story-first pacing**
-- **Short but impactful experience**
 
 The game was designed to feel grounded and realistic, relying on sound design, lighting, and timing to create tension.
 
