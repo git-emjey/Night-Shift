@@ -70,70 +70,67 @@ Follow these steps carefully to download and run **Night Shift**. This guide ass
 - Open **PowerShell** (Windows).
 - Run this command to make Git LFS work in your Git repositories: 
 
-**git lfs install**
+-> **git lfs install** <-
 
-Once that's done, you're good to go.
+Once that's done, you're all set.
 
 ### Step 2: Open a Terminal and Choose a Download Location
 
 **Step 2.1: Open Terminal**
+
 - Windows: Press Win + S, type PowerShell, press Enter.
 
 **Step 2.2: Navigate to where you want to put the game**
 
-For example, on Windows, using your Downloads folder.
+- For example, on Windows, use your Downloads folder.
+- Run this command:
 
-Run this command:
+-> **cd "C:\Users\YourUsername\Downloads"** <-
 
-**cd "C:\Users\YourUsername\Downloads"**
-
-Replace **YourUsername** with your Windows username.
-
-This is where the game folder will be saved.
+- Replace **YourUsername** with your Windows username.
+- This is where the game folder will be saved.
 
 ### Step 3: Clone the Repository (Download the Game Files)
 
 **Step 3.1: Run the clone command**
 
-Run this command: 
+- Run this command: 
 
-**git clone https://github.com/git-emjey/Night-Shift.git**
+-> **git clone https://github.com/git-emjey/Night-Shift.git** <-
 
-This will create a folder called Night-Shift with all the files.
+- This will create a folder called Night-Shift with all the files.
 
 **Step 3.2: Go into the folder where the cloned repo is**
 
-Run this command:
+- Run this command:
 
-**cd "Night-Shift"**
+-> **cd "Night-Shift"** <-
 
-Now you are inside the cloned repository folder.
+- Now you are inside the cloned repository folder.
 
 ### Step 4: Download All Large Game Files (Git LFS)
 
-Git LFS tracks large files (like Unity game data). If you skip this, the game won’t run.
+- Git LFS tracks large files (like Unity game data). If you skip this, the game won’t run.
+- Run this command:
 
-Run this command:
+-> **git lfs pull** <-
 
-**git lfs pull**
-
-Wait until it finishes downloading all the big files.
-
-Now your folder has everything needed to run the game.
+- Wait until it finishes downloading all the big files.
+- Now your folder has everything needed to run the game.
 
 ### Step 5: Run the Game
 
 **Step 5.1: Open the folder Night-Shift.**
 
-Find the folder in your downloads called **Night-Shift** and open it.
+- Find the folder in your downloads called **Night-Shift** and open it.
 
 **Step 5.2: Double-click this file:**
 
-You will find this file inside the cloned repository folder, double-click it:
+- You will find this file inside the cloned repository folder, double-click it:
 
-**Night Shift.exe**
+-> **Night Shift.exe** <-
 
-The game will launch.
+- The game will launch.
 
 ### Controls
 - **W / A / S / D** for movement  
