@@ -6,7 +6,7 @@
 
 ## Story
 
-You play as a night shift worker in a quiet store, expecting nothing more than another uneventful shift.  
+You play as a night shift worker in a convenience store, expecting nothing more than another uneventful shift.  
 As the night progresses, subtle details begin to feel *off* — locked doors, strange discoveries, and lingering silence.
 
 What starts as routine slowly unfolds into something deeply unsettling.
