@@ -49,3 +49,19 @@ The game was designed to feel grounded and realistic, relying on sound design, l
 
 ## Setup Instructions
 
+### Downloading the Game
+1. Go to the GitHub repository.
+2. Click the **<> Code** button → **Download ZIP**.
+3. Extract the ZIP file to a folder on your computer.
+
+### Running the Game
+1. Open the extracted folder.
+2. Inside the folder, double-click: **NightShift.exe**, and the game will launch.
+
+### Controls
+- **W / A / S / D** for movement  
+- **E**: Interact with doors 
+- **F**: Interact with paper and key
+
+
+
