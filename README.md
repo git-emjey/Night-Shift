@@ -62,5 +62,10 @@ The game was designed to feel grounded and realistic, relying on sound design, l
 - **E**: Interact with doors 
 - **F**: Interact with paper and key
 
+Notes:  
+- No installation is required.  
+- Make sure your system meets minimum requirements for running Unity Windows builds.
 
+## Team Roles
+**Design & Programming:** Marcjohn F. Castillon - ITE 18 EO1 
 
