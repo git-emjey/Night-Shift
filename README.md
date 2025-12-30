@@ -16,8 +16,6 @@ What starts as routine slowly unfolds into something deeply unsettling.
 ## Concept
 
 - **Psychological horror**
-- **Minimal UI**
-- **Story-first pacing**
 
 The game was designed to feel grounded and realistic, relying on sound design, lighting, and timing to create tension.
 
