@@ -15,7 +15,7 @@ What starts as routine slowly unfolds into something deeply unsettling.
 
 ## Concept
 
-- **Psychological horror**
+**Psychological horror**
 
 The game was designed to feel grounded and realistic, relying on sound design, lighting, and timing to create tension.
 
@@ -54,27 +54,21 @@ Follow these steps carefully to download and run **Night Shift**. This guide ass
 
 **Step 1.1: Download Git**
 
-Go to the official Git website: [https://git-scm.com/downloads](https://git-scm.com/downloads)  
-
-Choose your operating system (Windows / Mac / Linux).  
-
-Download and run the installer.  
-
-During installation, you can use the default options. Click **Next** until it finishes.  
+- Go to the official Git website: [https://git-scm.com/downloads](https://git-scm.com/downloads)  
+- Choose your operating system (Windows).  
+- Download and run the installer.  
+- During installation, you can use the default options. Click **Next** until it finishes.  
 
 **Step 1.2: Download Git LFS**
 
-Go to the official Git LFS website: [https://git-lfs.github.com/](https://git-lfs.github.com/)  
-
-Download the installer for your operating system.  
-
-Run the installer and follow the prompts.  
+- Go to the official Git LFS website: [https://git-lfs.github.com/](https://git-lfs.github.com/)  
+- Download the installer for your operating system.  
+- Run the installer and follow the prompts.  
 
 **Step 1.3: Initialize Git LFS**
 
-Open **PowerShell** (Windows).
-
-Run this command to make Git LFS work in your Git repositories: 
+- Open **PowerShell** (Windows).
+- Run this command to make Git LFS work in your Git repositories: 
 
 **git lfs install**
 
